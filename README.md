@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Personal live projcts<br>👯 I’m looking to collaborate on Github<br>🤝 I’m looking for help with graphic design<br>🌱 I’m currently learning Python and ML<br>💬 Ask me about Web development<br>⚡ Fun fact I just dived into the pacific ocean of Web
+🔭 I’m currently working on Personal live projcts<br> 💬 Ask me about Web development<br>⚡ Fun fact I just dived into the pacific ocean of Web
 
 
 ## 🌐 Socials:
